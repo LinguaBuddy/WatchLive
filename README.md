@@ -10,6 +10,7 @@
 <!-- Rozetler (Badges) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v1.0.0-38BDF8?style=for-the-badge&logo=github" alt="Version" />
+  <img src="https://img.shields.io/badge/Author-LinguaBuddy-8B5CF6?style=for-the-badge&logo=github" alt="Author" />
   <img src="https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/UI-CustomTkinter-FF6F61?style=for-the-badge" alt="UI" />
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Platform" />
@@ -65,7 +66,7 @@
 
 ```bash
 # Depoyu klonlayın
-git clone [https://github.com/KullaniciAdin/WatchLive.git](https://github.com/KullaniciAdin/WatchLive.git)
+git clone [https://github.com/LinguaBuddy/WatchLive.git](https://github.com/LinguaBuddy/WatchLive.git)
 cd WatchLive
 
 # Gerekli kütüphaneleri yükleyin
